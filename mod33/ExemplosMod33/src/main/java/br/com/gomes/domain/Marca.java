@@ -15,10 +15,7 @@ import javax.persistence.ManyToMany;
 import javax.persistence.SequenceGenerator;
 import javax.persistence.Table;
 
-/**
- * @author wendel.gomes
- *
- */
+
 @Entity
 @Table(name = "TB_Marca")
 public class Computador {
