@@ -19,10 +19,7 @@ import javax.persistence.OneToOne;
 import javax.persistence.SequenceGenerator;
 import javax.persistence.Table;
 
-/**
- * @author wendel.gomes
- *
- */
+
 @Entity
 @Table(name = "TB_CARRO")
 public class Carro {
