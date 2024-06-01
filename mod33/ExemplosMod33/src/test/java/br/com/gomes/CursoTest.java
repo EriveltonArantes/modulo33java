@@ -11,10 +11,6 @@ import br.com.gomes.dao.CarroDao;
 import br.com.gomes.dao.ICarroDao;
 import br.com.gomes.domain.Carro;
 
-/**
- * @author wendel.gomes
- *
- */
 public class CarroTest {
 
 	private ICarroDao carroDao;
