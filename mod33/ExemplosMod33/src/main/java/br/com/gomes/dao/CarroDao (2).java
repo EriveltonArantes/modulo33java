@@ -9,10 +9,7 @@ import javax.persistence.Persistence;
 
 import br.com.gomes.domain.Carro;
 
-/**
- * @author wendel.gomes
- *
- */
+
 public class CarroDao implements ICarroDao {
 
 	@Override
