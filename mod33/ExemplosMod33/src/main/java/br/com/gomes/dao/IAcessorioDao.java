@@ -6,10 +6,7 @@ package br.com.gomes.dao;
 import br.com.gomes.domain.Carro;
 import br.com.gomes.domain.Acessorio;
 
-/**
- * @author wendel.gomes
- *
- */
+
 public interface IAcessorioDao {
 
 	Acessorio cadastrar(Acessorio acessorio);
