@@ -16,10 +16,7 @@ import javax.persistence.criteria.Root;
 import br.com.gomes.domain.Curso;
 import br.com.gomes.domain.Acessorio;
 
-/**
- * @author wendel.gomes
- *
- */
+
 public class AcessorioDao implements IAcessorioDao {
 
 	@Override
