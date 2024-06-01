@@ -23,10 +23,7 @@ import br.com.gomes.domain.Marca;
 import br.com.gomes.domain.Carro;
 import br.com.gomes.domain.Acessorio;
 
-/**
- * @author wendel.gomes
- *
- */
+
 public class AcessorioTest {
 	
 	private IAcessorioDao acessorioDao;
