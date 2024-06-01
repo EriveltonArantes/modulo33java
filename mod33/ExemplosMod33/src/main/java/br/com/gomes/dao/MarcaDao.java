@@ -9,10 +9,7 @@ import javax.persistence.Persistence;
 
 import br.com.gomes.domain.Marca;
 
-/**
- * @author wendel.gomes
- *
- */
+
 public class MarcaDao implements IMarcaDao {
 
 	@Override
